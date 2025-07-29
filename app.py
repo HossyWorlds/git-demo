@@ -5,6 +5,7 @@ def main():
     print("Feature C: Adding logging functionality")
     print("Feature D: Adding email notification")
     print("Feature E")
+    print("Feature F")
 
 if __name__ == "__main__":
     main()
